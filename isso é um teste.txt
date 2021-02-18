@@ -1,2 +1,3 @@
 isso é um teste
 teste 2 pombas
+linha 3 na minhaBranch2
