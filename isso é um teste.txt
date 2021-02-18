@@ -1,3 +1,8 @@
 isso é um teste
+<<<<<<< HEAD
 linha 2 na master
 teste 2 pombas
+=======
+teste 2 pombas
+linha 3 na minhaBranch2
+>>>>>>> minhaBranch2
